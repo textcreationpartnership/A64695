@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Unbiased statesman laying the government in an equal balance, being a seasonable word for the commonwealth in a seasonable time / from a well seasoned friend, viz. a real lover of his country published for the begetting a right understanding between the people, their representatives and the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64695</idno>
+            <idno type="STC">Wing U30</idno>
+            <idno type="STC">ESTC R29571</idno>
+            <idno type="EEBO-CITATION">11174504</idno>
+            <idno type="OCLC">ocm 11174504</idno>
+            <idno type="VID">46525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1432:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Unbiased statesman laying the government in an equal balance, being a seasonable word for the commonwealth in a seasonable time / from a well seasoned friend, viz. a real lover of his country published for the begetting a right understanding between the people, their representatives and the army.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewel Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46525:1"/>
+            <pb facs="tcp:46525:1"/>
+            <pb facs="tcp:46525:2"/>
+            <pb facs="tcp:46525:2" rendition="simple:additions"/>
+            <p>
+               <hi>The <g ref="char:V">Ʋ</g>nbiaſſed</hi> STATESMAN, Laying the Government in an equal BALANCE.</p>
+            <p>BEING A SEASONABLE WORD For the Commonvvealth, In a ſeaſonable time, from a well ſeaſoned. Friend, <hi>viz.</hi> A real Lover of his Country. Publiſhed for the begetting a right un<g ref="char:EOLhyphen"/>derſtanding between the People, their Repreſentatives, and the Army.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Livewel Chapman,</hi> at the Crown in Popes-Head-Alley. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46525:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46525:3"/>
+            <head>The <g ref="char:V">Ʋ</g>nbiaſſed <hi>STATESMAN.</hi>
+            </head>
+            <p>HOW miſerable the State of theſe three Nations hath been for many years, and ſtill is, moſt men are ſenſible; and how far the remedies preſcribed for its recovery, have fallen ſhort of working a good effect, our preſent Calamities, unſettledneſs and diſtractions, are too clear a proof. All remedies hitherto for the curing of our diſtempers, have wrought no other effect, but to diſtemper and make ſick the body Politick; only raiſe and cauſe the peccant humors to boil up, and not e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate. But that which is worſe then the former, is this: the remedies uſed are ſo far from true and ſound curing, that they become in the peoples apprehenſions Symptomatical, and by them accounted of the nature of the diſeaſe it ſelf; they are ſo for from removing the Oppreſſions, Tyrannies, and ſore Evils, under which the good people groan, that they are reckoned among the Number of our Calamities. This Nation hath been ſick and in a languiſhing condition for ſome ages: We had a Parliament called in 1640. who we believed were able and willing Phyſitians to cure our Maladies; with them did the good people of the Nation engage, and fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ened their expectations (and thought they had firmely anchored) upon their endeavours: but alas, the foundation proved ſandy; our Ship toſſed up and down, could find no harbour: and poor ſick <hi>England</hi> grew ſick of the cure, and weary of her Phyſician.</p>
+            <p>How far the offence taken againſt the then Ser<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s, was juſt or unjuſt, I ſhall not now make Enquity; or how far
+<pb n="2" facs="tcp:46525:4"/>they followed their own wills, and purſued their own ends more then the deſires and wellfares of them who entruſted them with their power, I ſhall not here determine, knowing how many ſevere judges there were, and are of their acti<g ref="char:EOLhyphen"/>ons. But true it is, that after much blood and treaſure ſpilt, the King and the common Enemy conquered, and a change made in the form of Government, a new Image and ſuperſcri<g ref="char:EOLhyphen"/>ption put upon it, which was a matter of great concernment to the three Nations, moſt men grew unſatisfied. To wave the complaints and outcries of ſuch as unjuſtly complained, <hi>viz.</hi> of ſuch as cannot be pleaſed unleſs others be cruſhed; whoſe deſires, hopes, endeavours and ends are various and contrary, and ſo are their welfares; for which way ſoever the ſcale turns, a conſiderable part ſinks, groanes, and com<g ref="char:EOLhyphen"/>plains of the oppreſſion, Tyranny and hardſhip which they undergo by the eaſe and exaltation of others; As if there were no common good, where all honeſt intereſts might meet; No ſuperiority, dignity for ſome, without ſlavery and contempt for Othes. Muſt one mans reaſon become another mans rule, or arme him to deſtroy him? Had we more true wiſedome amongſt us, contrariety would be better ordered, that it might no longer harſhly jarre, but make up a ſweet Harmony. Many, even too many complain of unrighteouſ<g ref="char:EOLhyphen"/>neſs abroad, yet conſider not how they nouriſh, cheriſh, dung, and water the root thereof in themſelves; and are un<g ref="char:EOLhyphen"/>righteous, in judging others for unrighteouſneſs. Can ſuch men expect, that God ſhould make their ſuperiors juſt to<g ref="char:EOLhyphen"/>wards them in their actings, whileſt they are ſo unjuſt in the interpretation of their actings? Or, is it not conſentaneous to Juſtice and Equity, that every man in his turn and ſea<g ref="char:EOLhyphen"/>ſon ſhould meet with that force, oppreſſion, and injuſtice, which he in his deſire, reaſon and judgment, hath meaſured out to other?</p>
+            <p>Waving, I ſay, the complaints of ſuch men, let us not ſhut our Ears to the complaints, to the fears and jealouſies of the good people, who willingly ſerved the Parliament, and freely offered up their Lives, Blood and Eſtates, for them and the Cauſe, who after the expence of their Lives, Blood and Treaſure, grow jealous of their new-erected Gover<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:46525:4"/>and could but expect and deſire, that they ſhould give the people ſecurity; that this new mold of Goverment ſhould not prove as burdenſome, tyrannical and oppreſſive as the former. For wiſe men ſaw that multitude of affairs, and prolixity of their motions, were like to eat up the benefit of the Parliament, and ſwallow up their credit with the people. Whileſt they tired both themſelves and the people; they complained of their work, and the people complained of their burthens: the work grew upon them, and the burdens ſtill lay upon the people. The attendance, the ſeeking, waiting for relief, eat up the ſweetneſs of that which the people get from them. Oh how could the people be pleaſed with theſe their actions? Whileſt their groanes and complaints under their afflictions, pierced not their ears and hearts, though their conſciences could not but tell them, that they ought to have eaſed them of their preſſures.</p>
+            <p>Here, good people, may you behold the beginning of our backſliding and Apoſtaſy: for whileſt the ſpirits of moſt men were elevated, with contempt and diſdain of their then too lofty Senators, whom a little before, they had in much a we and reverence; The Grandees of the Army (whether in<g ref="char:EOLhyphen"/>tending to advance the good Old Cauſe, or their own for<g ref="char:EOLhyphen"/>tunes, I know not) put a period to their ſitting. But mark what followed: the contempt of the people towards that famous Parliament, gave opportunity to aſpiring and ambi<g ref="char:EOLhyphen"/>tious ſpirits, to bring about their own deſigns, and to make the good Old Cauſe, and her Servants, as a bawd and her panders to cover and obſcure their whoring after honour and Kingly dignity; ſo that by this means the late diverted ſtream, was almoſt brought into its former chanel of Mo<g ref="char:EOLhyphen"/>narchy; and the good Old Cauſe, not only neglected, but reproached and denyed; and ſuch as continued faithful to the ſame, became the moſt contemptible of mankind.</p>
+            <p>Thus did the common Enemy gain advantage over the good people, and the good Old Cauſe, till they were even upon the brink of deſtruction, &amp; ready to be rent &amp; torn by their hungry &amp; greedy jaws, and ſwallowed into their end<g ref="char:EOLhyphen"/>leſs gut of malice; Till the Army were awakened from their drouzy and careleſs ſecurity, and in tenderneſs to their
+<pb n="4" facs="tcp:46525:5"/>awakened conſciences, or to their own welfare and ſecu<g ref="char:EOLhyphen"/>rity (which had got wing, and was flying from them;) took courage to cut down the Sucker, which otherwi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in a ſhort time had grown as high as the former lofty Cedar, from whoſe root it ſprang; and to evidence (in part) their repentance, called that famous Parliament, who before had changed the Goverment from Kingly to a Commonwealth.</p>
+            <p>Thus ſtands the Eſtate of this Commonwealth, we hope freed from Monarchy, and delivered from her Ariſtocratical Ape: and that the foundation of Democracie may be firmly laid, and our State free indeed, give me leave to offer a word or two to the People, to the Parliament, to the Army. I hope I may make bold to begin with the people, the ground, root, and foundation of all power, whoſe repreſentatives Parliaments are, who are entruſted with the peoples Liver, Liberties and Eſtates, as P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>offees in truſt; as Stewards or Servants, not Lords, nor unbounded and unlimited Ma<g ref="char:EOLhyphen"/>ſters. To the good people, who have adhered to the good Old Cauſe who have been inſtrumental to bring the Nation out of its Egyptian, Monarchical bondage, &amp; have continued faithful to this day, I ſay, that by you are and oug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Parlia<g ref="char:EOLhyphen"/>ments to be conſtituted; or you, your intereſt, our ends, and to fulfill your intentions, ought they to act; and as they receive their being, ſo ought they to be bounded by you: Therefore in all humility, I offer theſe things to the ſerious conſideration of the good people.</p>
+            <p>Firſt, that you would all unanimouſly declare from every Corner of the Nation, that the Legiſlative power lieth in you, and in your repreſentatives, by you Legally choſen, whom you have entruſted with this power, not entailed it upon them and their heirs for ever; and for this end, and no other, that the act and do your wills, and not their own.</p>
+            <p n="2">2. That you would all with one conſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> declare what your wills are, and what are the oppreſſions you groan un<g ref="char:EOLhyphen"/>der; that the Parliament may know what they ought to do; and if they neglect, be left without excuſe.</p>
+            <p n="3">3. That your truſt be not abuſed, nor the power you have given to the Parliament (inftead of preſerving your liberties) made uſe of to inſtinge them; And that the priviledges of
+<pb n="5" facs="tcp:46525:5"/>Parliament ſwallow not up your rights and Liberties, which they ought to defend and maintain; that you would with one heart endeavour, that there may be ſome bounds and Limits ſet before the Parliament, beyond which they ought not to paſs: Let there be ſome ſtanding Priviledges, Princi<g ref="char:EOLhyphen"/>ples of Reaſon, or Rules of Law extant, whereto any perſon doubting, might addreſs himſelf for ſatisfaction, and to which the actions and acts of Parliament ought exactly to anſwer.</p>
+            <p>To the Parliament I ſay, O that you would be wonderous watchful over your ſelves, and wary in the managing of yours and the peoples affairs: for there is a far ſeverer Eye upon you now, then formerly. Labour to be faithful Stewards in that which the people hath entruſted you with. You have (and that juſtly too) blamed your predeceſſors for unju<g ref="char:EOLhyphen"/>ſtice, and you have ſeen the Judgment of God follow them; you have been alſo ſenſible of your own unjuſtice, and the Judgment of God upon you, in ſo much that (after you had been owned by the good people, had in reverence, awe, love, eſteem, and fear of all) you became ſuddenly a ſcorn, and reproach to all ſorts of people, and in concluſion, caſt out with ſcorn &amp; reproach; ſcarce one among all your friends that had one drachm of pitty for you. You have ſince ſeen the Judgment of God fall upon your interruptors, for their unrighteouſneſs and unjuſtice; And the Lord hath been ſo merciful to you, as to ſet you once more in a capacity to act for the peoples good. Which if you do, O how will good men bleſſe God for you, and Chronologize you to poſte<g ref="char:EOLhyphen"/>rity, and your faithfulneſs to God and your Country be founded forth from one generation to another. On the contrary, if you ſlight the Cauſe of God, and the peoples good; the affections of your friends will ſoon decay<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> the preſence of the Lord will depart from you, and the Judge<g ref="char:EOLhyphen"/>ment of God, which you already have had a ſence of, will inevitably fall upon you.</p>
+            <p>Oh, now conſider what opportunities you have had, what you now do enjoy to do the people good: do your work throughly, go to the bottome, let the Nation be free indeed; you have thrown down one power for its arbitraryneſs, do
+<pb n="6" facs="tcp:46525:6"/>not ſet up another; but let a foundation of freedome and Righteouſneſs be laid; in the laying of which, ſingly eye the good and welfare of the people in general, not particular perſons and intereſts.</p>
+            <p>For the effecting of which, I conceive three things princi<g ref="char:EOLhyphen"/>pally to be minded; The firſt, is good Laws; The ſecond is proper &amp; fit hands for the executing thoſe Laws; And third<g ref="char:EOLhyphen"/>ly, an exact rule or way, whereby their hands may be guided to a due and ſpeedy execution of thoſe Laws.</p>
+            <p>Let the Laws be bounds of right and Liberty, and deter<g ref="char:EOLhyphen"/>mine what every man ſhall enjoy for his own, what he may act for himſelf, and what he muſt act for the Publick<g ref="char:punc">▪</g> Let the Laws be certain, and ſuited to the State of the Nation; Let them be clear, and eaſy to be known by the peo<g ref="char:EOLhyphen"/>ple; Leſt a foundation of injuſtice and miſery lie at the bottome, that they become not Snares to them, whom it ſhould preſerve from enſnaring; nor give occaſion to cun<g ref="char:EOLhyphen"/>ning and crafty heads, to cruſh and perplex the plain, hearted.</p>
+            <p>The next thing is execution, without which the Law ſignifies nothing: it is the life of the Law, without which, the Law is neither terrour nor encouragement. For the beſt Laws are to little purpoſe, if they be not placed into fit hands, for the faithful execution of them: And indeed, we are ſubject more to complain, (and have moſt cauſe ſo to do) concerning the Non-execution of the Laws we have, then the Non-additi<g ref="char:EOLhyphen"/>on of the Laws we want.</p>
+            <p>After good Laws, and fit hands to execute them, it is meet that there be a clear Rule preſcribed to them that are to execute; leſt being left to their own wills in the determi<g ref="char:EOLhyphen"/>nation of things, to follow their own apprehenſions and judgments, being furniſhed with corruption, to draw them aſide, and advantages of ſecurity beyond others, (as authori<g ref="char:EOLhyphen"/>ty, power, and greatneſs do alwayes afford) they lay an ar<g ref="char:EOLhyphen"/>bitrary foundation, and reare a Tyrannical Government. Therefore the people are bound, in reſpect to their own ſafety, and thoſe they entruſt in matters of Government, Firſt, to provide good Laws for themſelves to be governed by; Secondly, due bounds to keep them in, who are to execute thoſe Laws.</p>
+            <pb n="7" facs="tcp:46525:6"/>
+            <p>For the making of good Laws, to provide for execution, and to keep the executors within due bounds, the people have provided workmen, and given them authority, <hi>viz.</hi> to wit, Par<g ref="char:EOLhyphen"/>liaments: they have as yet had but a ſlender account of their Stewardſhip; much do they expect from this preſent Parlia<g ref="char:EOLhyphen"/>ment, or a ſtrict account for the breach of truſt, from every parti<g ref="char:EOLhyphen"/>cular member.</p>
+            <p>Right honourable, you are the Supream Authority, you have an extraordinary power entruſted you with, for extraordinary ends and purpoſes; &amp; if you do ſafely apply it, it may produce ex<g ref="char:EOLhyphen"/>cellent effects, but if it be extended too far, and to caſes contrary to the good peoples appointment, it will produce a great miſ<g ref="char:EOLhyphen"/>chief, inſtead of a remedy; for the greateſt power miſapplyed, muſt needs be the greateſt oppreſſion. I pray you conſider, that a Parliament may more eaſily Erre, then a King or Ordinary Councel: for they have or ought to have a rule to walk by; but you act by meer Supremacy, from your own determinations, where you do but vote, and it ſhall be ſo, and the people are bound to ſtand to it: Therefore if you go out of the Circum<g ref="char:EOLhyphen"/>ference, if you ſtep without the bounds of clear Reaſon and Juſtice, you do unavoidably make the people Slaves. Therefore it is much to be bewailed, that Parliaments are not bounded, that the truſt repoſed in them, is not clearly known, either to the people or to themſelves; that they have ſo large a road to walk in, that they may eaſily erre: nay it is almoſt impoſſible for them to walk aright; for the heart of man is deceitful and prone (though he hath a rule) to bend it to his miſcarriages, much more when he is left to his Liberty: it is ill truſting unbounded power; it is ſo ſharp a tool, it quickly eats up all, but its own Soverainty, and hard keeping limited power within its bounds. Few men there are that know any thing of them<g ref="char:EOLhyphen"/>ſelves, that are not ſenſible that they have in them a principle to miſlead them; and he that knows it, and is not willing to be chained up (as a Lion or Wolf is from doing harm) nouriſheth up in himſelf a deſire to be a Tyrant. And the people by calling perſons to office, without bounds or limitations, and a ſtandard to meaſure their Actions by, do careleſly ſow the ſeeds of Tyranny, and to their ſorrow too ſoon reap the fruit.</p>
+            <p>Though the people of this Nation have been too negligent of their own ſecurity; do not you that are their Repreſenta<g ref="char:EOLhyphen"/>tives
+<pb n="8" facs="tcp:46525:7"/>(I beſeech you) take an advantage thereat, but put them in a way now, and joyn with the good people that will be ready to adviſe with you, that they may have ſomewhat whereunto they might have recourſe in matter of controverſie between them and the Parliament, upon whoſe faithful diſcharge of truſt the welfare of the people doth depend, &amp; by whoſe care they may be ſet and preſerved in a flouriſhing condition; when on the contrary, they may eaſily be impoveriſhed and enſlaved. E<g ref="char:EOLhyphen"/>quity allows, wiſdom and ſelf-preſervation teacheth all to look after the managing of their truſt, and have ſatisfaction whether it be managed faithfully, ſpeedily and carefully for their advan<g ref="char:EOLhyphen"/>tage. How ſhall the people know this? how can they be ſa<g ref="char:EOLhyphen"/>tisfied, if any controverſie ariſe about it? and how can you gain<g ref="char:EOLhyphen"/>ſay, when the people charge you with ſlighting and betraying your truſt, and ſwallowing up their Rights and Liberties by your Priviledges? how will it be decided, whether the re<g ref="char:EOLhyphen"/>proaches caſt upon you by the people, be true or falſe; or whe<g ref="char:EOLhyphen"/>ther you have faithfully diſcharged your truſt, or betrayed it, if there be not ſome ſtanding priviledges and Rules of Law extant, to which the people may have recourſe for ſatisfaction? The want of this, without doubt, was the bottom root of all our diſturbances and diſtractions. The want of this made the caſe between this preſent Parliament and the late King ſo diffi<g ref="char:EOLhyphen"/>cult: you charged him with violating the Laws, and extending his Prerogatives, even to the extirpating of the priviledges of Parliament, and much to the damage and hurt of the people. He charged you with overturning the Laws, and extending your priviledges to the hurt both of him and the people, <hi>&amp;c.</hi> this made a great claſhing between thoſe two great powers; nei<g ref="char:EOLhyphen"/>ther had any ſtandard to determine which were truly guilty; each juſtifie themſelves, as it is uſual with men ſo to do: for want of this ſtandard, the people took part with one, or with the other, as their mindes led them. The ſame difference may happen between the Parliament and People, as did between the King and Parliament: the people may declare their thoughts and minds, that the Parliament doth not diſcharge their truſts, that they do meddle with things with which they were not en<g ref="char:EOLhyphen"/>truſted, and neglect that which they were entruſted with, <hi>&amp;c.</hi> and ſo make uſe of an Army to throw them out of the Houſe. The Parliament on the other hand, may juſtifie themſelves, and
+<pb n="9" facs="tcp:46525:7"/>ſay, They have been faithful to the people, ran great hazards for them, and have denyed themſelves much for the people, and therefore are ill requited by them, from whom they deſer<g ref="char:EOLhyphen"/>ved better things: what then? ſhall the Parliament make uſe of an Army to ſtop the peoples mouths, or curb their inſolence? or were it not better that there ſhould be a ſtandard between them, by which any man though of a mean capacity, might end the controverſie? Therefore in all Humility, I do preſent theſe three things to this preſent Parliament.</p>
+            <list>
+               <item>Firſt, that you will publiſh to open view a true meaſure of Parliamentary truſt, from the principles of Law and reaſon; whereby the members of Par<g ref="char:EOLhyphen"/>liament may know, what they ought to do, and what not to meddle with; and the people know what to expect, what not; when to complain, and when they ought to be ſilent. And that theſe principles of reaſon, and rules of Law, may be ſo plain, that it may not be eaſy to wreſt it to the favour of any particular perſon: and not to be abrogated by Parliaments, without a general conſent of the good people.</item>
+               <item>Secondly, that a Committee be appointed by the Parliament, to hear all perſons, who are capable of adviſing them, and the Parliament; and men known to be ſenſible of publique dangers, and ready to improve their ut<g ref="char:EOLhyphen"/>moſt abilities for the publick good, to adviſe them in the framing theſe fun<g ref="char:EOLhyphen"/>damental principles of reaſon, and rules of Law; and that the Parliament will take care that this Committee may meet at ſuch times, and take ſuch care in hearing all addreſſes, that the perſons attending on them, be not tired with over-tedious waiting.</item>
+               <item>Thirdly, that you will appoint a certain limited time for the ſitting of Par<g ref="char:EOLhyphen"/>liaments, and that they be choſen by the good people, and no others; and that in the interval of Parliament, the Laws may be executed by a Councel of State, made up with the Members of Parliament of the Peoples Electing, and that they every year be removed: And that eſpecial care may be taken, that the work of Parliaments may be diſpatched with more eaſe and ſpeed, that their work grow not faſter upon them, then it can be diſpatched by them. By this means, the ſafety and proſperity of the people might be preſerved; the Parliaments priviledges preſerved and maintained, and their perſons honoured and reſpected; and all people fearing the Lord, will have cauſe to bleſs God for your faithful and honeſt endeavours, and the fruits thereof.</item>
+            </list>
+            <p>I cannot paſs by the Army, and take no notice of them, who the Lord hath made uſe of to do great and mighty things, in the throwing down of his and our Enemies, and freeing us of the Norman yoke, under the preſſure of which we ſo long groaned. Yet dear friends, as we cannot but love you, ſo we dare not but mind you of your backſliding, ſlighting the good Old Cauſe, and forgetting your faithful friends, whom (after all our familiarity and Godly Society) you have (like Joſephs Brethren) ſold us to the Iſhmac<g ref="char:EOLhyphen"/>lites; and truly we might have remained in <hi>Egypt</hi> for ever, had not the Lord provided dangers and neceſſities, as ſtrong motives to you, to fetch us out, &amp; deliver your ſelves. You are members of the body, and are and muſt be ſenſible of its joy and ſorrow. You cannot ſay (becauſe you wear the Sword)
+<pb n="10" facs="tcp:46525:8"/>that you are unconcerned in the affairs of State; Let not your intereſts ſtand in Antipathy to the intereſts of the good people; but labour to be faithful to your own, and the peoples juſt intereſts, and the Parliaments Priviledges.</p>
+            <p>We earneſtly deſire you to joyn with the good people of theſe Nations, in addreſſing your ſelves unto the Parliament, and aſſiſting both them and the people in eſtabliſhing of peace, righteouſneſs, and juſtice among us; that as we have laboured, ſo we may rejoyce together, and reap the fruit of our la<g ref="char:EOLhyphen"/>bours in peace and tranquillity; which that we may do, I make bold alſo to offer three things to you:
+<list>
+                  <item>1. That as we have cauſe to bleſs God for the largeneſs of your power, ſo for the preventing of any evil effects which may be likely to ſpring there<g ref="char:EOLhyphen"/>from, we deſire to have, ſee and know a ſtandard, bounds and limits of your power alſo; that as you ought not to hold up your Sword in vain, ſo that you may ſo hold it up, as to hold up the honeſt intereſt and priviledges, both of Parliaments and People.</item>
+                  <item>2. That you will adviſe with the good people, and joyn with them, and pre<g ref="char:EOLhyphen"/>ſent to the Parliament what may be thought meet, as principles of reaſon and Rules of Law, to be bounds and Limits for future Parliaments; and hedges and fences for them, you and us.</item>
+                  <item>3. And that you will make uſe of your power, only to ſee the fundamental principles, and Rules of Reaſon, and Law performed, and be ready to joyn with the people, when their Liberties &amp; juſt rights are likely to be infrin<g ref="char:EOLhyphen"/>ged; and that you will not without the conſent of the good people, and upon apparent breach of the Parliamentary truſt, intermeddle with their affairs, or diſturb their proceedings: Nor on the other hand, we deſire you not to act any thing againſt the people, or any particular perſon, contrary to the civil Law or Limits ſet to you by Parliament; nor ſuffer any to be perſecuted, who have not tranſgreſſed the Civil Law, intrenched upon the Parliaments Pri<g ref="char:EOLhyphen"/>viledges, or fundamental principles, as aforeſaid.</item>
+               </list>
+            </p>
+            <p>This may be uſeful, both in reſpect of Parliament, People and Army; for want of which, all three have been drawn to act things diſpleaſing to each other, which otherwiſe they would not have done. This is the way to make the three parts Sympahetically labour to build up the body, and to employ the power of each, for the good of all. This is a way to take away all occaſions of differences, which now continually do ariſe, when every man is left to his own (perhaps misbyaſſed) reaſon and judgment, and hath no clear rule to guide his eye and thoughts by. This is a triple Cord, which if well woven &amp; twiſted, will not eaſily be broken; but be of great uſe as a fagot-band to hold the little and great, ſhort and long, and ſorts and ſizes together.</p>
+            <p>Thus far have I vented my ſelf, partly for my own, but principally for the publick good, of which I have been a long time full. I conceive it a need<g ref="char:EOLhyphen"/>full ſubject: how well it may be reliſhed or find acceptance, I patiently wait, and cheerfully ſubmit, let the Lot be good or bad: part of my end I have al<g ref="char:EOLhyphen"/>ready, <hi>viz.</hi> the publication thereof: if it find acceptance, be a means to do good, or ſet abler heads, and deeper brains, to perform ſomthing which ſhall be more excellent, and worthy of publick view, I have my whole end. If it doth neither, I deſire in patience to poſſeſs my ſoul, and reſt content, till the times be more capable of hearing and ſubmitting to reaſon, or I enabled from above to judge of things better, and more effectually to declare them.</p>
+            <trailer>An End.</trailer>
+            <pb facs="tcp:46525:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
